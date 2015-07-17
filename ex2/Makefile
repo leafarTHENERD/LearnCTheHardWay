@@ -7,7 +7,7 @@ CC = gcc
 CFLAGS = -Wall -g
 
 # the build target executable
-TARGET = ex1
+TARGET = ex2
 
 all: $(TARGET)
 
